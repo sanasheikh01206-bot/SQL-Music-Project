@@ -1,7 +1,3 @@
-Here is a professional README file structure tailored exactly to the SQL queries and business logic you wrote. You can copy and paste this directly into a `README.md` file on your GitHub repository.
-
----
-
 # Digital Music Store SQL Analysis
 
 
@@ -68,9 +64,3 @@ The analysis is structured into three tiers of complexity, designed to answer sp
 
 
 * **Top Regional Spenders:** Developed an advanced query utilizing CTEs and window partitioning to identify the single top-spending customer within every country.
-
-
-
-## 📹 Video Walkthrough
-
-**[👉 Click here to watch my full project walkthrough video on Google Drive](https://www.google.com/search?q=PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
